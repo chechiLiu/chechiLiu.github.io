@@ -43,7 +43,7 @@ html, body {
     }
 
 	audio { 
-		height:30px;
+		height:25px;
 		width: 300px; display: block;
 		box-shadow: 5px 5px 20px rgba(0,0, 0, 0.4);
 		border-radius: 90px;
